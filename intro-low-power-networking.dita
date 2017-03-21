@@ -36,4 +36,7 @@
  <related-links>
   <link href="intro-network-lighting.dita#intro-network-lighting" scope="local"/>
  </related-links>
+ <postreq>
+  <p conref="c-disclaimer.dita" /> 
+ </postreq>
 </concept>
