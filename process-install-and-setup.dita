@@ -27,5 +27,8 @@
                 <cmd>Program lighting groups.</cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="c-disclaimer.dita" /> 
+        </postreq>
     </taskbody>
 </task>
