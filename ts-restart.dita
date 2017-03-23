@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
-<troubleshooting id="trouble_bzy_wnv_hz">
+<troubleshooting id="ts-restart">
   <title/>
   <troublebody>
     <condition>
@@ -19,7 +19,7 @@
         <responsibleParty></responsibleParty>
         <steps-unordered>
           <step>
-            <cmd>Restart the system by, holding down the power button on the remote for three
+            <cmd>Restart the <keyword keyref="product-name"/> by, holding down the power button on the remote for three
               seconds or until the power light at the top of the remote turns off.</cmd>
           </step>
           <step>
