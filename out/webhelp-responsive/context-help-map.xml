@@ -20,4 +20,5 @@
                path="ref-specifications-led-bulb.html"/>
    <appContext helpID="ts-restart" path="ts-restart.html"/>
    <appContext helpID="c-disclaimer" path="c-disclaimer.html"/>
+   <appContext helpID="contact_information" path="contactinfo.html"/>
 </map>
